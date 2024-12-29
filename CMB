@@ -18,7 +18,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
-
+/* globals MPP */
 /*---------[Author info]-------------
  [discord: gtnntg]
  [e-mail: developer.georgiyshvedov@mail.ru]
